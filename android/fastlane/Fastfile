@@ -1,0 +1,19 @@
+default_platform(:android)
+
+platform :android do
+  desc "Runs all the tests"
+  lane :app_distribution do
+    sh "flutter clean"
+    sh "flutter build apk --release --target-platform android-arm64"
+    firebase_app_distribution(
+      app: dotenv("FIREBASE_PROJECT_ID"),
+      firebase_cli_token: dotenv("FIREBASE_CLI_TOKEN"),
+      android_artifact_type: "APK",
+      android_artifact_path: "../build/app/outputs/flutter-apk/app-release.apk",
+      testers:"abubaker773880@gmail.com"
+
+    )
+  end
+
+
+end
