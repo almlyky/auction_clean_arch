@@ -72,10 +72,12 @@
 ### user screan -->
 
 <p align="start">
-  <img src="./assets/readme_images/h1.png" width="20%" />
-  <img src="./assets/readme_images/h2.png" width="20%" />
-  <img src="./assets/readme_images/h3.png" width="20%" />
-  <img src="./assets/readme_images/login.png" width="20%" />
+  <img src="https://github.com/almlyky/auction_clean_arch/blob/main/assets/readme_images/h1.png" width="20%" />
+  
+  <img src="https://github.com/almlyky/auction_clean_arch/blob/main/assets/readme_images/h2.png" width="20%" />
+  
+<img src="https://github.com/almlyky/auction_clean_arch/blob/main/assets/readme_images/h3.png" width="20%" />
+<img src="https://github.com/almlyky/auction_clean_arch/blob/main/assets/readme_images/login.png" width="20%" />
 
 </p>
 
