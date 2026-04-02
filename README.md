@@ -72,13 +72,13 @@
 
 ### user screan -->
 
-<p align="start">
+<!-- <p align="start"> -->
   <img src="assets/readme_images/h1.png" width="20%" />
   <img src="assets/readme_images/h2.png" width="20%" />
   <img src="assets/readme_images/h3.png" width="20%" />
   <img src="assets/readme_images/login.png" width="20%" />
 
-</p>
+<!-- </p> -->
 
 <!-- ### dashboard screan -->
 
